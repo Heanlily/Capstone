@@ -7,4 +7,5 @@ Most eventually lose the ability to walk, use their hands, speak, swallow, and b
 The cause is not known in 90% to 95% of cases, but is believed to involve both genetic and environmental factors. 
 The remaining 5–10% of cases are inherited from a person's parents. About half of these genetic cases are due to one of two specific genes. 
 The underlying mechanism involves damage to both upper and lower motor neurons. The diagnosis is based on a person's signs and symptoms, with testing done to rule out other potential causes.
-![image](https://github.com/Heanlily/Capstone/blob/master/%EF%BC%81%EF%BC%81%EF%BC%81PI.png)
+![image](https://github.com/Heanlily/Capstone/blob/master/%EF%BC%81%EF%BC%81%EF%BC%81%EF%BC%81%EF%BC%81%EF%BC%81%EF%BC%81.png)
+![image](https://githu(b.com/Heanlily/Capstone/blob/master/%EF%BC%81%EF%BC%81%EF%BC%81PI.png)
