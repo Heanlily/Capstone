@@ -14,7 +14,7 @@ Mean response variable of each month
 
 Comparison of results from different models 
   | XGB | LGB | DNN | Weighted Ensemble 
- ------------- | ------------- | ------------- | ------------- | ------------- 
+ --| --| -- | -- | --
  R_square | 0.702 | 0.704 | 0.606 | 0.706 
  RMSE | 4.896 | 4.882 | 5.631 | 4.864 
  Slope | 0.988 | 1.001 | 0.946 | 1.009 
