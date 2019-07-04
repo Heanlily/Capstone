@@ -8,4 +8,10 @@ The cause is not known in 90% to 95% of cases, but is believed to involve both g
 The remaining 5–10% of cases are inherited from a person's parents. About half of these genetic cases are due to one of two specific genes. 
 The underlying mechanism involves damage to both upper and lower motor neurons. The diagnosis is based on a person's signs and symptoms, with testing done to rule out other potential causes.
 ![image](https://github.com/Heanlily/Capstone/blob/master/%EF%BC%81%EF%BC%81%EF%BC%81%EF%BC%81%EF%BC%81%EF%BC%81%EF%BC%81.png)
-![image](https://github.com/Heanlily/Capstone/blob/master/%EF%BC%81%EF%BC%81%EF%BC%81PI.png)
+|  | XGB | LGB | DNN | Weighted Ensemble |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| R_square | 0.702 | 0.704 | 0.606 | 0.706 |
+| RMSE | 4.896 | 4.882 | 5.631 | 4.864 |
+| Slope | 0.988 | 1.001 | 0.946 | 1.009 |
+| Intercept | 0.460 | 0.225 | 2.246 | -0.194 |
+| Skewness | -0.537 | -0.522 | 2.194 | -0.648 |
