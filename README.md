@@ -14,7 +14,7 @@ Mean response variable of each month
 
 Comparison of results from different models 
 
-Name | XGB | LGB | DNN | Weighted Ensemble 
+ | XGB | LGB | DNN | Weighted Ensemble 
 --| --| -- | -- | --
 R_square | 0.702 | 0.704 | 0.606 | 0.706 
 RMSE | 4.896 | 4.882 | 5.631 | 4.864 
@@ -22,8 +22,4 @@ Slope | 0.988 | 1.001 | 0.946 | 1.009
 Intercept | 0.460 | 0.225 | 2.246 | -0.194 
 Skewness | -0.537 | -0.522 | 2.194 | -0.648 
 
-名称 | 地址 | 备注
--- | -- | --
-小明 | 幸福路 | 打断点
-小明 | 幸福路 | 打断点
 
